@@ -1,0 +1,83 @@
+Part 9 – Business Investigation
+1. What is causing the profitability problem?
+
+Profitability is mainly affected by high product costs, excessive discounting, and loss-making products. The correlation between discount and profit is negative (-0.242), while cost price also has a strong negative relationship with profit (-0.445).
+
+2. Which products are responsible?
+
+Several products are generating losses. The biggest loss-making products include:
+
+Product 004: -$41,028
+Product 042: -$38,954
+Product 045: -$33,243
+Product 026: -$29,891
+Product 059: -$29,471
+
+These products require pricing, cost, and discount review.
+
+3. Which customer segments are responsible?
+
+The main retention-risk segments are:
+
+At-Risk Customers: 88
+Inactive Customers: 30
+
+These 118 customers represent the major customer-retention concern.
+
+4. Which regions are underperforming?
+
+Central is the weakest-performing region:
+
+Revenue: $8.5M
+Profit: $2.91M
+
+East is the second-lowest:
+
+Revenue: $8.8M
+Profit: $2.93M
+
+Therefore, Central and East require improvement.
+
+5. Are discounts affecting profit?
+
+Yes. Discount has a negative correlation with profit (-0.242), indicating that higher discounting is associated with lower profitability. High-discount products such as Product 037 and Product 004 should be reviewed.
+
+6. Are returns affecting profitability?
+
+There are 259 total returns. Returns create refund costs and can reduce realized profitability. Products with high return volumes should therefore be investigated for quality, delivery, or customer-expectation issues.
+
+7. Which marketing channels are inefficient?
+
+Facebook is the least efficient channel:
+
+ROI: 280.03% — lowest
+CAC: 294.78 — highest
+Conversion rate: 2.76% — lowest
+
+Marketing spending on Facebook should be reviewed and optimized.
+
+8. Which customers are at risk?
+
+There are 88 At-Risk Customers, with:
+
+Average spending: $96,017
+Average orders: 3.78
+Average recency: 246 days
+
+These customers should be targeted with re-engagement and retention campaigns.
+
+9. What are the biggest business opportunities?
+
+The biggest opportunities are:
+
+Retain At-Risk Customers through win-back campaigns.
+Protect VIP and High-Value Customers with loyalty programs.
+Fix loss-making products through pricing and cost optimization.
+Reduce excessive discounting on low-margin products.
+Improve Central and East region performance.
+Optimize marketing budget by reducing inefficient Facebook spending.
+Investigate high-return products to reduce refund-related losses.
+
+Overall Conclusion:-
+
+The investigation supports management's statement. Revenue growth is not translating into profitability and retention at the same rate. Profitability is being pressured by loss-making products, product costs, and discounting, while retention is affected by a significant number of At-Risk and Inactive customers. Central and East underperform on revenue and profit, and Facebook is the least efficient marketing channel. The strongest opportunities are customer retention, product profitability improvement, regional optimization, and better marketing budget allocation.

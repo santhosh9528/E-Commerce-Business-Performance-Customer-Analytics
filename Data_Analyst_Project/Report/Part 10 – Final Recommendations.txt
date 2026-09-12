@@ -1,0 +1,54 @@
+Part 10 – Final Recommendations
+
+1. Improve Loss-Making Products
+Problem identified: Several products are generating negative profit.
+Supporting data: Product 004 lost $41,028, Product 042 lost $38,954, and Product 045 lost $33,243.
+Recommended action: Review pricing, supplier costs, and discount levels for these products. Increase prices or reduce costs where possible.
+Expected business impact: Reduce product-level losses and improve overall profit margin.
+
+2. Reduce Excessive Discounting
+Problem identified: Higher discounts are associated with lower profit.
+Supporting data: Discount and profit have a negative correlation of -0.242. Product 004 has an average discount of approximately 15.24% while making a loss.
+Recommended action: Set discount limits for low-margin products and avoid deep discounts on products already generating losses.
+Expected business impact: Protect profit margins while maintaining sales volume.
+
+3. Retain At-Risk Customers
+Problem identified: A significant number of customers are at risk of becoming inactive.
+Supporting data: 88 At-Risk Customers have an average recency of approximately 246 days.
+Recommended action: Launch targeted win-back campaigns with personalized offers and reminders.
+Expected business impact: Increase repeat purchases and improve customer retention.
+
+4. Re-engage Inactive Customers
+Problem identified: Inactive customers have very long periods since their last purchase.
+Supporting data: 30 Inactive Customers have an average recency of approximately 451 days.
+Recommended action: Create a separate reactivation campaign using personalized promotions and product recommendations.
+Expected business impact: Recover previously lost customers and generate additional revenue.
+
+5. Improve Central Region Performance
+Problem identified: Central is the weakest-performing region.
+Supporting data: Central generated only $8.5M revenue and $2.91M profit, the lowest among the regions.
+Recommended action: Analyze product demand and customer behavior in Central and introduce targeted regional promotions.
+Expected business impact: Increase regional sales and improve profit contribution.
+
+6. Optimize Facebook Marketing Spending
+Problem identified: Facebook is the least efficient marketing channel.
+Supporting data: Facebook has the lowest ROI at 280.03%, highest CAC at 294.78, and lowest conversion rate at 2.76%.
+Recommended action: Reduce inefficient Facebook campaigns and reallocate part of the budget to better-performing campaigns.
+Expected business impact: Lower customer acquisition costs and improve marketing ROI.
+
+7. Reduce Product Return Problems
+Problem identified: Product returns create refund costs and can reduce realized profitability.
+Supporting data: There are 259 total returns, with Product 018 having the highest return count at 8.
+Recommended action: Investigate high-return products for quality, delivery, product-description, and customer-expectation issues.
+Expected business impact: Reduce refunds, improve customer satisfaction, and protect profitability.
+
+8. Protect High-Value and VIP Customers
+Problem identified: High-value customers contribute significantly to business revenue but require continued retention.
+Supporting data: There are 177 High-Value Customers and 103 VIP Customers.
+Recommended action: Introduce loyalty benefits, personalized offers, and priority customer engagement for these segments.
+Expected business impact: Increase customer lifetime value and reduce the risk of losing high-spending customers.
+
+Final Recommendation Summary
+
+The business should focus on improving product profitability, controlling discounts, retaining valuable customers, reducing returns, improving weak regions, and reallocating marketing spending toward efficient channels. These actions can improve profitability and customer retention while supporting sustainable revenue growth.
+

@@ -1,0 +1,68 @@
+========================================
+STATISTICAL ANALYSIS
+========================================
+
+REVENUE
+--------
+Mean Revenue: 19909.58
+Median Revenue: 8946.63
+Standard Deviation: 740100.86
+
+PROFIT
+------
+Mean Profit: 3298.70
+Median Profit: 1819.59
+Standard Deviation: 4462.29
+
+
+========================================
+95% CONFIDENCE INTERVAL - REVENUE
+========================================
+
+Mean Revenue: 19909.58
+Lower Bound: 398.94
+Upper Bound: 39420.22
+
+
+========================================
+CORRELATION ANALYSIS
+========================================
+
+Discount vs Profit Correlation: -0.242
+Cost Price vs Profit Correlation: -0.445
+Revenue vs Profit Correlation: 0.587
+Profit vs Profit Margin Correlation: 0.783
+
+
+========================================
+HYPOTHESIS TEST - CONVERSION RATE
+========================================
+
+Previous Campaign: Campaign 11
+Previous Conversion Rate: 0.0067 (0.67%)
+
+New Campaign: Campaign 12
+New Conversion Rate: 0.0022 (0.22%)
+
+H0 (Null Hypothesis):
+The new campaign did not significantly improve the conversion rate.
+
+H1 (Alternative Hypothesis):
+The new campaign significantly improved the conversion rate.
+
+Significance Level: 0.05
+Z-statistic: -17.8983
+P-value: 1.0
+
+Result:
+Fail to Reject the Null Hypothesis.
+
+Conclusion:
+There is not enough evidence to conclude that the new campaign
+significantly improved conversion rate.
+
+Business Interpretation:
+The new campaign conversion rate decreased from 0.67% to 0.22%.
+Therefore, the new campaign should be reviewed and optimized before
+increasing its marketing investment.
+
