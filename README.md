@@ -1,142 +1,144 @@
-# E-Commerce Business Performance & Customer Analytics
+# 📊 Power BI Dashboard
 
-## Project Overview
+An interactive **Power BI Dashboard** was developed to provide management with a consolidated view of e-commerce business performance.
 
-This project focuses on analyzing the overall performance of an e-commerce business using **Excel/Python, SQL, Statistics, and Power BI**.
+The report contains five analytical dashboard pages:
 
-The company has experienced strong revenue growth, but management has identified inconsistencies in:
+1. Executive Overview
+2. Sales Analysis
+3. Customer Analysis
+4. Product Analysis
+5. Marketing Analysis
 
-- Profit margins
-- Customer retention
-- Product performance
-- Returns
-- Marketing effectiveness
-
-The objective of this project is to perform a complete end-to-end data analysis and provide data-driven recommendations to improve business performance.
+Interactive filters and slicers allow users to explore business performance across different dimensions.
 
 ---
 
-## Business Scenario
+## 📌 Executive Overview Dashboard
 
-You are working as a **Data Analyst for an e-commerce company**.
+The **Executive Overview Dashboard** provides a high-level summary of overall business performance.
 
-Management has observed that revenue is increasing, but profitability and customer retention are not improving at the same rate.
+The dashboard helps management quickly monitor important KPIs and understand the overall health of the business.
 
-The goal is to identify the causes of these problems and discover opportunities for improving revenue, profitability, customer retention, product performance, and marketing efficiency.
+### Key Areas
 
----
+- Total Revenue
+- Total Profit
+- Total Orders
+- Total Customers
+- Average Order Value
+- Profit Margin
+- Revenue Growth
+- Overall Business Performance
 
-## Datasets
+### 🖼️ Dashboard Preview
 
-The project uses the following datasets:
-
-- Customers
-- Products
-- Orders
-- Order Items
-- Payments
-- Returns
-- Marketing Campaigns
-
-These datasets are connected using customer IDs, product IDs, order IDs, and campaign information.
+![Executive Overview Dashboard](Data_Analyst_Project/Dashboards/Executive%20overview.png)
 
 ---
 
-## Tools & Technologies
+## 💰 Sales Analysis Dashboard
 
-- **Excel / Python** – Data Cleaning
-- **SQL / MySQL** – Data Analysis
-- **Python**
-  - Pandas
-  - NumPy
-  - Matplotlib
-  - Seaborn
-- **Statistics** – Hypothesis Testing & Business Analysis
-- **Power BI** – Interactive Dashboard & Data Visualization
-
----
-
-# Project Workflow
-
-## 1. Data Cleaning & Preparation
-
-The raw datasets are cleaned and prepared for analysis.
-
-Tasks include:
-
-- Removing duplicate records
-- Handling missing values
-- Correcting data types
-- Standardizing date formats
-- Checking invalid values
-- Identifying outliers
-- Validating relationships between datasets
-- Creating calculated fields
-- Preparing analysis-ready datasets
-- Documenting major data-quality issues
-
----
-
-## 2. SQL Analysis
-
-The cleaned datasets are loaded into a relational database for analysis.
-
-SQL concepts used include:
-
-- SELECT
-- WHERE
-- ORDER BY
-- GROUP BY
-- HAVING
-- Aggregate Functions
-- INNER JOIN
-- LEFT JOIN
-- Subqueries
-- CTEs
-- CASE Statements
-- Window Functions
-- Ranking
-- Running Totals
-- Month-over-Month Analysis
-
-### Business Questions
-
-The SQL analysis answers questions such as:
-
-- What is the total revenue?
-- What is the total profit?
-- What is the average order value?
-- Who are the top 10 customers?
-- What are the top 10 products?
-- Which products generate the highest profit?
-- Which products have high revenue but low profit?
-- Which customers have stopped purchasing?
-- Which regions generate the highest revenue?
-- Which categories are underperforming?
-- What is the monthly revenue growth?
-- What is the customer repeat-purchase rate?
-
----
-
-## 3. Python Data Analysis
-
-Python is used for Exploratory Data Analysis and deeper business analysis.
+The **Sales Analysis Dashboard** focuses on revenue and sales performance across time, products, categories, and business dimensions.
 
 ### Analysis Includes
 
-- Sales trend analysis
-- Customer behavior analysis
-- Product performance analysis
-- Return analysis
-- Marketing performance analysis
-- Outlier detection
-- Correlation analysis
-- Business trend identification
+- Monthly Revenue
+- Monthly Profit
+- Sales Trends
+- Category Performance
+- Product Performance
+- Revenue Growth
+- Sales Performance
 
-### Python Libraries
+### 🖼️ Dashboard Preview
 
-```python
-pandas
-numpy
-matplotlib
-seaborn
+![Sales Analysis Dashboard](Data_Analyst_Project/Dashboards/Sales%20Analysis.png)
+
+---
+
+## 👥 Customer Analytics Dashboard
+
+The **Customer Analytics Dashboard** analyzes customer behavior and customer-level business performance.
+
+### Analysis Includes
+
+- Customer Performance
+- Customer Spending
+- Customer Segmentation
+- Purchase Behavior
+- Customer Lifetime Value
+- Customer Retention
+- Customer Contribution
+
+### 🖼️ Dashboard Preview
+
+![Customer Analytics Dashboard](Data_Analyst_Project/Dashboards/customer%20Annalysis.png)
+
+---
+
+## 📦 Product Analysis Dashboard
+
+The **Product Analysis Dashboard** focuses on product-level performance and helps identify products that contribute to revenue and profitability.
+
+### Analysis Includes
+
+- Top Products
+- Product Revenue
+- Product Profitability
+- Product Performance
+- Product Margins
+- Low-Performing Products
+- Product Returns
+- Product Contribution
+
+### 🖼️ Dashboard Preview
+
+![Product Analysis Dashboard](Data_Analyst_Project/Dashboards/Product%20Analysis.png)
+
+---
+
+## 📢 Marketing Analysis Dashboard
+
+The **Marketing Analysis Dashboard** analyzes marketing campaign and channel performance.
+
+### Analysis Includes
+
+- Campaign Performance
+- Marketing Spend
+- Revenue Generated
+- Conversion Performance
+- Customer Acquisition
+- Marketing ROI
+- Channel Comparison
+- Marketing Effectiveness
+
+### 🖼️ Dashboard Preview
+
+![Marketing Analysis Dashboard](Data_Analyst_Project/Dashboards/Marketing%20Analysis.png)
+
+---
+
+# 📌 Dashboard Summary
+
+| Dashboard | Primary Focus |
+|---|---|
+| **Executive Overview** | Overall business KPIs and performance |
+| **Sales Analysis** | Revenue, sales trends and performance |
+| **Customer Analytics** | Customer behavior, segmentation and value |
+| **Product Analysis** | Product performance and profitability |
+| **Marketing Analysis** | Campaign performance and marketing ROI |
+
+---
+
+# 📁 Dashboard Files
+
+```text
+Data_Analyst_Project/
+└── Dashboards/
+    ├── Executive overview.png
+    ├── Sales Analysis.png
+    ├── customer Annalysis.png
+    ├── Product Analysis.png
+    └── Marketing Analysis.png
+```
